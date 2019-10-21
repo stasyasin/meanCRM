@@ -1,0 +1,34 @@
+{
+  "name": "meancrm",
+  "version": "1.0.0",
+  "description": "mean crm app",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "server": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stasyasin/meanCRM.git"
+  },
+  "keywords": [
+    "mean",
+    "mongo",
+    "express",
+    "angular",
+    "node",
+    "crm"
+  ],
+  "author": "Stanislav Demianets",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stasyasin/meanCRM/issues"
+  },
+  "homepage": "https://github.com/stasyasin/meanCRM#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.4"
+  }
+}
